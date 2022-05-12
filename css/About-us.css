@@ -1,13 +1,20 @@
+body {
 
-.site { 
+font-size: 20px;
+
+}
+
+/* .site { 
     background: url(./../Images/background.jpg) repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    
   }
 
 
 .header-1 {
     justify-content: end;
-}
+} */
+
